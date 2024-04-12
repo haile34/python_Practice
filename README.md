@@ -37,3 +37,13 @@ To use the program, run the `menu()` function, which displays a menu of options.
 ## Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+
+
+ ## GROUP MEMBER
+ 
+ 1. Haileyesus Tekalign       1402115
+ 2. Alazar Sisay              1401204
+ 3. Chaltu Tesfa              1401641
+ 4. Henok Solomon             1402207
+ 5. Juneyd Abdosh             1402299
+ 
